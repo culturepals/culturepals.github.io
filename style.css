@@ -1,0 +1,68 @@
+@font-face {
+font-family: "Roboto", monospace;
+}
+
+body {
+background: #EEF2FF;
+background-image:url('background.jpg');
+color: #000000  ;
+font-family: "Roboto", monospace;
+font-size: 16pt;
+}
+
+a {
+color: #34345C ;
+text-decoration: none;
+}
+
+a:hover {
+color: #0055FF
+}
+
+h1 {
+font-family: "Roboto", monospace;
+font-size: 24pt;
+font-weight: normal;
+margin-top: -18px;
+margin-bottom: 24px;
+}
+
+h2 {
+font-family: "Roboto", monospace;
+font-size: 18pt;
+font-weight: normal;
+margin-top: -18px;
+margin-bottom: 24px;
+}
+
+h3 {
+font-family: "Roboto", monospace;
+font-size: 16pt;
+font-weight: normal;
+margin-top: -18px;
+margin-bottom: 24px;
+}
+
+h4 {
+color: #006622;
+font-size: 15pt;
+font-weight: normal;
+margin-top: -18px;
+margin-bottom: 24px;
+}
+
+p {
+font-size: 15pt;
+font-weight: normal;
+margin-top: -18px;
+margin-bottom: 24px;
+}
+
+.links {
+color: #407C9B  ;
+}
+
+#sections {
+max-width:1250px;
+position: absolute;
+}
